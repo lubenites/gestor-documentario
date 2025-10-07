@@ -1,0 +1,5 @@
+{
+  "name": "Gestor Documentario",
+  "description": "Una aplicación web para registrar y anexar documentos asociados a una Orden de Compra (OC).",
+  "requestFramePermissions": []
+}
